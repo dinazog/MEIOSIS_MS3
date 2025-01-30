@@ -1,7 +1,8 @@
 # MEIOSIS_MS3
 **Community reshuffling**
 
-**Summary **
+**Summary**
+
 This script provides a comprehensive Community Reshuffling Analysis, investigating how climate change and environmental factors drive shifts in butterfly community composition over time. The Community Weighted Length Index (CWLI) is used to quantify changes in body size at different monitoring sites, comparing observed trends with null models generated through randomization.
 Key analytical steps include:
 1.	Data Preprocessing – Cleaning species, site, and body size measurements.
@@ -11,7 +12,10 @@ Key analytical steps include:
 5.	Exporting Results – Producing structured outputs for further research and policy recommendations.
 This pipeline provides valuable insights into biodiversity responses to climate change, aiding conservation efforts and predictive modeling of species adaptations in changing environments.
 
+
+
 **Community Reshuffling Analysis** 
+
 Step-by-Step Guide
 This guide outlines the steps required to analyze community reshuffling in butterfly populations using observed and null models. The analysis quantifies changes in Community Weighted Length Index (CWLI) across monitoring sites over time and compares observed trends with null distributions generated through randomization.
 
