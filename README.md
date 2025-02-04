@@ -1,5 +1,5 @@
 
-# MEIOSIS_MS3: Community Reshuffling Analysis
+# MEIOSIS_MS_3: Community Reshuffling Analysis
 
 ## 🌍 **Overview**
 This repository provides a comprehensive pipeline for **Community Reshuffling Analysis**, exploring how climate change and environmental factors drive shifts in butterfly community composition over time. The analysis leverages the **Community Weighted Length Index (CWLI)** to quantify changes in body size across different monitoring sites, comparing observed trends with null models generated through randomization.
