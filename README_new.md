@@ -79,7 +79,7 @@ Contributions are welcome! Please feel free to fork this repository, submit issu
 ---
 
 ## 📢 **Contact**
-For questions or collaborations, please contact [Your Name] at [Your Email].
+For questions or collaborations, please contact [Dina Zografou] at [dina.zografou@uoi.gr].
 
 ---
 
